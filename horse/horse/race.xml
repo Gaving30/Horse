@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<Races>
+    <Date>1
+        <Length />11
+        <Class />1
+        <Names />test1
+    </Date>
+    <Date>1
+        <Length />11
+        <Class />1
+        <Names />hose1
+    </Date>
+    <Date>1
+        <Length />11
+        <Class />1
+        <Names />test1
+    </Date>
+    <Date>1
+        <Length />11
+        <Class />1
+        <Names />horse1
+    </Date>
+    <Date>1
+        <Length />11
+        <Class />1
+        <Names />r
+    </Date>
+    <Date>1
+        <Length />11
+        <Class />1
+        <Names />test1
+    </Date>
+</Races>

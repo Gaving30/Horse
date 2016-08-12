@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<Horses>
+    <Name>test1
+        <Mother />mother1
+        <Father />father1
+        <Height />1
+        <Owner />owner1
+        <Age />1
+        <Wins />1
+        <Markings />mark1
+        <Notes />note1
+    </Name>
+    <Name>horse1
+        <Mother />mother1
+        <Father />father1
+        <Height />4
+        <Owner />owner1
+        <Age />1
+        <Wins />1
+        <Markings />1mark
+        <Notes />1note
+    </Name>
+</Horses>
